@@ -1,7 +1,7 @@
 ### Hi there,My name is Tin, Im a student in University of Engineering and Technology 👋
-🔭 I’m currently working on Viettel High Tech
-🌱 I’m currently learning Embedded Linux
-⚡ Fun fact: I enjoy playing sports like soccer, gym. 😄
+### 🔭 I’m currently working on Viettel High Tech
+### 🌱 I’m currently learning Embedded Linux
+### ⚡ Fun fact: I enjoy playing sports like soccer, gym. 😄
 
 <!--
 **LuyenHuyTin/LuyenHuyTin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
