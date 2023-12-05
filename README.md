@@ -1,5 +1,5 @@
 ### Hi there! My name is Tin, I'm a student in University of Engineering and Technology 👋
-👨‍💼 I’m currently working on Viettel High Tech<br />
+👨‍💼 I’m currently working on LG Electronics R&D<br />
 🐧 I’m currently learning Embedded Linux <br />
 🤔 I'm always willing to listen and learn from you 👯.<br />
 ⚡ Fun fact: I enjoy playing sports like soccer, gym 😄.<br />
